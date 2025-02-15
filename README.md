@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Danish Ahmed</h1>
-<h3 align="center">Senior QA Engineer</h3>
+<h3 align="center">Senior SQA Engineer</h3>
 
 - 🔭 I’m currently working on **Selenium, Cypress, Rest Assured, Appium**
 
