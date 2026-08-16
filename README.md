@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Danish Ahmed</h1>
 <h3 align="center">Senior SQA Engineer</h3>
 
-- 🔭 I’m currently working on **Selenium, Cypress, Rest Assured, Appium**
+- 🔭 I’m currently working on **Selenium WebDriver, Playwright Cypress, Rest Assured, Appium**
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Mobile Automation, Cypress**
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Playwright, Mobile Automation, Cypress**
 
-- 💬 Ask me about **Selenium, JAVA, JavaScript, Cypress, POSTMAN, Rest Assured, Appium, JMeter**
+- 💬 Ask me about **Selenium, JAVA, TypeScript , JavaScript, Cypress, POSTMAN, Rest Assured, Appium, JMeter**
 
 - 📫 How to reach me **syeddanish918@gmail.com**
 
