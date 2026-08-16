@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Danish Ahmed</h1>
 <h3 align="center">Senior SQA Engineer</h3>
 
-- 🔭 I’m currently working on **Selenium WebDriver, Playwright Cypress, Rest Assured, Appium**
+- 🔭 I’m currently working on **Selenium WebDriver, Playwright, Cypress, Rest Assured, Appium**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Playwright, Mobile Automation, Cypress**
 
