@@ -17,8 +17,6 @@
 
 * 👯 I’m looking to collaborate on **Test Automation, Playwright, API Testing, AI Testing, QA Engineering, Mobile Automation, and CI/CD**
 
-* 💬 Ask me about **Playwright, Selenium, Cypress, Appium, Java, TypeScript, JavaScript, REST Assured, Postman, SQL, JMeter, and QA Automation Frameworks**
-
 * 🧪 Experienced in **Functional, Regression, E2E, Smoke, Integration, Database, API, Mobile, Performance, and Risk-Based Testing**
 
 * 📊 Experienced in **QA Strategy, Test Planning, Release Readiness, Defect Management, Quality Metrics, and Shift-Left Testing**
