@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Selenium, JAVA, TypeScript , JavaScript, Cypress, POSTMAN, Rest Assured, Appium, JMeter**
 
-- 📫 How to reach me **syeddanish918@gmail.com**
+- 📫 How to reach me **syeddanish963@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
