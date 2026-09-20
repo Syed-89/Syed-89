@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://appium.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/assets/appium-logo.svg" alt="appium" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/353413/appium.svg" alt="appium" width="40" height="40"/>
 </a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo.svg" alt="rest assured" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" alt="rest assured" width="40" height="40"/>
 </a>
 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
@@ -93,7 +93,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
 
-<a href="https://www.jmeter.apache.org/" target="_blank" rel="noreferrer">
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
 </a>
 
@@ -108,7 +108,7 @@
 <b>AI Testing:</b> AI-Assisted Testing, AI-Powered Features, LLM/Agent Testing, Intelligent Test Workflows<br/>
 <b>Enterprise Applications:</b> Microsoft Dynamics 365 F&O, CRM, Business Central, Oracle Fusion<br/>
 <b>Testing:</b> Functional, Regression, E2E, Smoke, Integration, Database, Mobile & Performance Testing<br/>
-<b>CI/CD:</b> Azure DevOps, Jenkins, Automated Test Pipelines<br/>
+<b>CI/CD:</b> Azure DevOps, Jenkins, Automated Test Pipelines
 </p>
 
 <h3 align="left">Certifications:</h3>
